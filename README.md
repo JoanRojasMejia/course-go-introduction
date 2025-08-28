@@ -26,67 +26,6 @@ Este repositorio contiene todo el material y código fuente de un curso inicial 
 - 🚀 **Construir** una base sólida para proyectos más complejos
 - 📝 **Practicar** con ejercicios reales y ejemplos del mundo real
 
-## 📋 Contenido del Curso
-
-### 🌱 **Módulo 1: Introducción**
-- [x] Instalación y configuración del entorno
-- [x] Hola Mundo en Go
-- [x] Estructura de un programa Go
-- [x] Compilación y ejecución
-
-### 📦 **Módulo 2: Variables y Tipos de Datos**
-- [x] Declaración de variables
-- [x] Tipos básicos (int, float, string, bool)
-- [x] Constantes
-- [x] Type inference
-- [x] Conversión de tipos
-
-### 🔢 **Módulo 3: Operadores**
-- [x] Operadores aritméticos
-- [x] Operadores de comparación
-- [x] Operadores lógicos
-- [x] Operadores de asignación
-- [x] Operadores bit a bit
-
-### 🔄 **Módulo 4: Estructuras de Control**
-- [x] Condicionales (if, else if, else)
-- [x] Switch case
-- [x] Bucles (for, range)
-- [x] Break y continue
-- [x] Goto y labels
-
-### 🎯 **Módulo 5: Funciones**
-- [x] Declaración y llamada de funciones
-- [x] Parámetros y valores de retorno
-- [x] Funciones variádicas
-- [x] Funciones anónimas y closures
-- [x] Defer, panic y recover
-
-### 📚 **Módulo 6: Estructuras de Datos**
-- [x] Arrays
-- [x] Slices
-- [x] Maps
-- [x] Structs
-- [x] Interfaces
-
-### 🔍 **Módulo 7: Punteros**
-- [x] Concepto de punteros
-- [x] Operadores & y *
-- [x] Punteros y funciones
-- [x] Punteros y structs
-
-### 🎨 **Módulo 8: Métodos e Interfaces**
-- [x] Métodos en Go
-- [x] Interfaces y polimorfismo
-- [x] Type assertion
-- [x] Empty interface
-
-### ⚡ **Módulo 9: Concurrencia (Introducción)**
-- [x] Goroutines básicas
-- [x] Channels
-- [x] Select statement
-- [x] WaitGroups
-
 ## 🛠️ Requisitos Previos
 
 - **Go 1.25** instalado ([Guía de instalación](https://golang.org/doc/install))
@@ -97,13 +36,13 @@ Este repositorio contiene todo el material y código fuente de un curso inicial 
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/curso-inicial-go.git
+   git clone https://github.com/JoanRojasMejia/course-go-introduction
    cd curso-inicial-go
    ```
 
 2. **Navega por los módulos**
    ```bash
-   cd modulo-01-introduccion
+   cd 01-variables
    ```
 
 3. **Ejecuta los ejemplos**
